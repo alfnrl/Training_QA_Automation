@@ -1,0 +1,43 @@
+{
+  "keywordFileContentHash": "C5E12962E061119980C1D39DFAD4B3B4",
+  "keywordClasses": [
+    {
+      "name": "latihanCustomKeyword.latihanCustomKeyword",
+      "keywordMethods": [
+        {
+          "name": "testprint",
+          "parameters": [
+            {
+              "name": "inputUser",
+              "initialExpression": "",
+              "type": {
+                "fullClassName": "java.lang.String",
+                "unresolvedClassName": "String",
+                "isArray": false,
+                "isGnericsPlaceHolder": false,
+                "hasImmutableClassName": false,
+                "genericsTypes": [],
+                "errorOnParsing": false
+              }
+            },
+            {
+              "name": "loopTimes",
+              "initialExpression": "",
+              "type": {
+                "fullClassName": "int",
+                "unresolvedClassName": "int",
+                "isArray": false,
+                "isGnericsPlaceHolder": false,
+                "hasImmutableClassName": true,
+                "genericsTypes": [],
+                "errorOnParsing": false
+              }
+            }
+          ],
+          "javadoc": ""
+        }
+      ]
+    }
+  ],
+  "javadocParsed": true
+}
